@@ -16,3 +16,29 @@ Scikit-learn (sklearn): Used for implementing machine learning algorithms and mo
 Matplotlib: Used for data visualization.
 Seaborn: Used for statistical data visualization.
 Streamlit: Used for deploying and sharing the machine learning models as web applications.
+
+# Included Disease Prediction Models
+## Diabetes Prediction Model
+Attributes:
+Pregnancies
+Glucose
+Blood Pressure
+Skin Thickness
+Insulin
+BMI
+Age
+Diabetes Pedigree Function
+## Heart Disease Prediction Model
+Attributes:
+Sex
+Chest Pain Type (cp)
+Resting Blood Pressure (trestbps)
+Serum Cholesterol (chol)
+Fasting Blood Sugar (fbs)
+Resting Electrocardiographic Results (restecg)
+Maximum Heart Rate Achieved (thalach)
+Exercise-Induced Angina (exang)
+ST Depression Induced by Exercise Relative to Rest (oldpeak)
+Slope of the Peak Exercise ST Segment (slope)
+Number of Major Vessels Colored by Fluoroscopy (ca)
+Thalassemia (thal)
